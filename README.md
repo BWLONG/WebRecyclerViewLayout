@@ -1,0 +1,2 @@
+# WebRecyclerViewLayout
+一个上面放置webView，下面放置RecyclerView的控件，用于新闻资讯界面的开发，将webView和RecyclerView独立开来，支持NestedScrolling特性
